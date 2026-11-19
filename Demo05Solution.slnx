@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Common/Common.csproj" Id="90b30592-28f5-469f-8b1b-cdca6c681b6e" />
+  <Project Path="Demo05/Demo05.csproj" />
+</Solution>
